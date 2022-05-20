@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="content_image_item_weather">content image item weather</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="wed">Wed</string>
+    <string name="feb_12">Feb 12</string>
+    <string name="content_bg_based_on_weather">Background based on today\'s weath</string>
+    <string name="content_icon_based_on_weather">Icon based on weather</string>
+    <string name="image_item_weather">Image Item Weather</string>
+    <string name="_32_c">32 °C</string>
+    <string name="jakarta">Jakarta</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+</resources>
